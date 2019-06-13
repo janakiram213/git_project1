@@ -1,6 +1,6 @@
 node {
    stage ('SCM Checkout'){
-     git 'https://github.com/janakiram213/game_of_life.git'
+     git 'https://github.com/janakiram213/git_branch_project'
    }
    stage ('validate'){
      //get maven home path
