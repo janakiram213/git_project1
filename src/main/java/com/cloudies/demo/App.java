@@ -11,7 +11,12 @@ public class App
         System.out.println( "Hello Welcome to CLOUDSEALS technologies,Ltd" );
         System.out.println("Aim bigger,Achieve smarter");
 	System.out.println("suchitra, hyderabad");
+<<<<<<< HEAD
 	System.out.println("Make your own road");
+=======
+	System.out.println("be happy");
+	System.out.println("Always be patient");
+>>>>>>> ram
     }
 
 }
