@@ -15,7 +15,11 @@ public class App
 	System.out.println("Make your own road");
 =======
 	System.out.println("be happy");
+<<<<<<< HEAD
 	System.out.println("Always be patient");
+>>>>>>> ram
+=======
+	
 >>>>>>> ram
     }
 
