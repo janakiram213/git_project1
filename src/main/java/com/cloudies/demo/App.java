@@ -12,7 +12,7 @@ public class App
         System.out.println("Aim bigger,Achieve smarter");
 	System.out.println("suchitra, hyderabad");
 	System.out.println("be happy");
-	System.out.println("Always be patient");
+	
     }
 
 }
